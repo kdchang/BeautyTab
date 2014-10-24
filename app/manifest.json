@@ -1,0 +1,20 @@
+{
+    "name": "BeautyTab 表特分頁",
+    "version": "0.0.17",
+    "manifest_version": 2,
+    "description": "BeautyTab 表特分頁",
+    "icons": {
+        "16": "images/icon-16.png",
+        "128": "images/icon-128.png"
+    },
+    "default_locale": "en",
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "myPage.html"
+    },
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+}
