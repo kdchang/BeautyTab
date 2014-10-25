@@ -1,11 +1,14 @@
 {
     "name": "BeautyTab 表特分頁",
-    "version": "0.0.17",
+    "version": "0.0.20",
     "manifest_version": 2,
-    "description": "BeautyTab 表特分頁",
+    "description": "BeautyTab 表特分頁是一個 Chrome Extension 應用程式，安裝BeautyTab 表特分頁後，當您開啟新的分頁將會出現賞心悅目的表特圖片，您可以選擇喜翻收藏或是點選不喜翻選擇下一個 Beauty，直到您喜歡的Beauty 出現為止。",
     "icons": {
         "16": "images/icon-16.png",
-        "128": "images/icon-128.png"
+        "19": "images/icon-19.png",
+        "38": "images/icon-38.png",
+        "128": "images/icon-128.png",
+        "300": "images/icon-300.png"
     },
     "default_locale": "en",
     "permissions": [
